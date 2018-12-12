@@ -1,8 +1,8 @@
 window.config = {
    "model_": "AppConfig",
    "id": 1,
-   "appName": "SSCPS Lockout",
-   "homepage": "https://sites.google.com/sscps.org/missingdevice",
+   "appName": "Edulastic",
+   "homepage": "https://app.edulastic.com/districtLogin/SSCPS#login",
    "enableNavBttns": false,
    "enableHomeBttn": false,
    "enableReloadBttn": false,
