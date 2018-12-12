@@ -1,7 +1,7 @@
 window.config = {
    "model_": "AppConfig",
    "id": 1,
-   "appName": "Edulastic",
+   "appName": "Edulastic-Chrome-App",
    "homepage": "https://app.edulastic.com/districtLogin/SSCPS#login",
    "enableNavBttns": false,
    "enableHomeBttn": false,
